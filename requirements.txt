@@ -1,0 +1,6 @@
+# TGSift - Telegram Chat Search Tool Dependencies
+PyQt6
+beautifulsoup4
+lxml
+whoosh
+jieba
